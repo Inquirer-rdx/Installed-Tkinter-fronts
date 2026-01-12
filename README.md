@@ -3,10 +3,10 @@ in a scrollable list. Each font family is rendered using its own typeface for ea
 
 Features:
 ---------
-Lists all available font families (sorted alphabetically)
-Renders each font in its native style
-Smooth scrolling with mousewheel support
-Clean, minimal interface
+    Lists all available font families (sorted alphabetically)
+    Renders each font in its native style
+    Smooth scrolling with mousewheel support
+    Clean, minimal interface
 
 
 Requirements: Python 3.x with tkinter (usually included by default)
